@@ -1,0 +1,30 @@
+turnout,age,gender,left_right,education
+voted,30,female,10,no degree
+voted,32,male,8,no degree
+not voted,65,female,4,degree
+not voted,41,male,4,no degree
+not voted,30,female,2,no degree
+not voted,66,female,4,degree
+voted,49,male,7,no degree
+voted,38,male,7,no degree
+voted,46,male,9,no degree
+not voted,30,male,8,degree
+not voted,54,male,6,degree
+voted,30,female,1,no degree
+not voted,59,male,7,degree
+voted,34,female,3,degree
+not voted,57,male,3,no degree
+voted,59,male,8,degree
+not voted,49,male,10,no degree
+voted,63,male,10,degree
+not voted,43,female,10,degree
+voted,62,male,8,degree
+not voted,67,female,2,degree
+not voted,21,female,7,degree
+voted,41,male,2,no degree
+voted,29,female,7,degree
+voted,48,male,10,no degree
+voted,26,female,6,degree
+not voted,32,male,4,degree
+voted,67,male,7,degree
+not voted,43,male,2,no degree
